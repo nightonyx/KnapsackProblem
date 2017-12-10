@@ -46,7 +46,7 @@ public class Population {
         population.add(k1);
         population.add(k2);
 
-        // Добавить детей
+        // Добавить детей\
         population.add(child1);
         population.add(child2);
 
